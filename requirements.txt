@@ -1,0 +1,6 @@
+# List required packages in this file, one per line.
+ophyd
+bluesky
+numpy
+databroker
+nslsii
